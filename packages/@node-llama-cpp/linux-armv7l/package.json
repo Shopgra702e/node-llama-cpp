@@ -43,6 +43,6 @@
   },
   "homepage": "https://node-llama-cpp.withcat.ai",
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.8.3"
   }
 }
